@@ -13,10 +13,10 @@ namespace ToDo
         public Form1()
         {
             InitializeComponent();
-            priorityListBox.Items.Add("�I�����Ă�������");
-            priorityListBox.Items.Add("��");
-            priorityListBox.Items.Add("��");
-            priorityListBox.Items.Add("��");
+            priorityListBox.Items.Add("優先度");
+            priorityListBox.Items.Add("高");
+            priorityListBox.Items.Add("中");
+            priorityListBox.Items.Add("低");
             deadlineTextBox.TextChanged += addDeadlineTextBox_TextChanged;
             reloadTasksDB();
         }
@@ -40,15 +40,15 @@ namespace ToDo
 
             if (addTaskTextBox.Text.Length == 0)
             {
-                MessageBox.Show("�u�^�X�N���v����͂��Ă�������", "�G���[", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("タスク名を入力してください", "エラー", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else if (checkDeadlineTextBox())
             {
-                MessageBox.Show("�u�����v�̓��͂�����������܂���", "�G���[", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("締切日が正しく入力されていません", "エラー", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else if (priorityListBox.SelectedIndex == -1)
             {
-                MessageBox.Show("�u�D��x�v��I�����Ă�������", "�G���[", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("優先度を選択してください", "エラー", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
@@ -61,15 +61,15 @@ namespace ToDo
                         string[] deadlineTextBoxArray = deadlineTextBox.Text.Split("/");
                         string deadline = string.Join("", deadlineTextBoxArray);
                         string priority = null;
-                        if (priorityListBox.SelectedItem == "��")
+                        if (priorityListBox.SelectedItem == "高")
                         {
                             priority = "3";
                         }
-                        else if (priorityListBox.SelectedItem=="��")
+                        else if (priorityListBox.SelectedItem=="中")
                         {
                             priority = "2";
                         }
-                        else if (priorityListBox.SelectedItem == "��")
+                        else if (priorityListBox.SelectedItem == "低")
                         {
                             priority = "1";
                         }
@@ -237,15 +237,15 @@ namespace ToDo
                             priorityListBox.Tag = customCheckBox;
                             if (customCheckBox.Priority == 3)
                             {
-                                priorityListBox.Items.Add("��");
+                                priorityListBox.Items.Add("高");
                             }
                             else if (customCheckBox.Priority == 2)
                             {
-                                priorityListBox.Items.Add("��");
+                                priorityListBox.Items.Add("中");
                             }
                             else if (customCheckBox.Priority == 1)
                             {
-                                priorityListBox.Items.Add("��");
+                                priorityListBox.Items.Add("低");
                             }
                             priorityListBox.Location = new Point(deadlineTextBox.Location.X + 120, deadlineTextBox.Location.Y);
                             priorityListBox.Size = new Size(60, 25);
@@ -258,7 +258,7 @@ namespace ToDo
                         if (customCheckBoxLast != null)
                         {
                             Button button = new Button();
-                            button.Text = "�폜";
+                            button.Text = "削除";
                             button.Location = new Point(customCheckBoxLast.Location.X, customCheckBoxLast.Location.Y + 30);
                             button.Size = new Size(75, 30);
                             button.Name = "taskButton";

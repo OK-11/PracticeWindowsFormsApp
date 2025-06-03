@@ -30,3 +30,4 @@ C:\Users\koush\source\repos\ToDo\ToDo\bin\Debug\net8.0-windows\runtimes\unix\lib
 C:\Users\koush\source\repos\ToDo\ToDo\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\koush\source\repos\ToDo\ToDo\obj\Debug\net8.0-windows\ToDo.csproj.AssemblyReference.cache
 C:\Users\koush\source\repos\ToDo\ToDo\obj\Debug\net8.0-windows\ToDo.csproj.Up2Date
+C:\Users\koush\source\repos\ToDo\ToDo\obj\Debug\net8.0-windows\ToDo.sourcelink.json
