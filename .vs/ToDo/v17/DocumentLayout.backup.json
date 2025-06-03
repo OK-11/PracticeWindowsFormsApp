@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koush\\source\\repos\\ToDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|c:\\users\\koush\\source\\repos\\todo\\todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|solutionrelative:todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|C:\\Users\\koush\\source\\repos\\ToDo\\todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|solutionrelative:todo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|c:\\users\\koush\\source\\repos\\todo\\todo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|solutionrelative:todo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|c:\\users\\koush\\source\\repos\\todo\\todo\\customcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|solutionrelative:todo\\customcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|c:\\users\\koush\\source\\repos\\todo\\todo\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|solutionrelative:todo\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|c:\\users\\koush\\source\\repos\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30543D4A-F0EB-44D0-A445-F19A1D198126}|ToDo\\ToDo.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomCheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\CustomCheckBox.cs",
+              "RelativeDocumentMoniker": "ToDo\\CustomCheckBox.cs",
+              "ToolTip": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\CustomCheckBox.cs",
+              "RelativeToolTip": "ToDo\\CustomCheckBox.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:12:00.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\CustomTextBox.cs",
+              "RelativeDocumentMoniker": "ToDo\\CustomTextBox.cs",
+              "ToolTip": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\CustomTextBox.cs",
+              "RelativeToolTip": "ToDo\\CustomTextBox.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:38:38.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDo\\Form1.cs",
+              "ToolTip": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Form1.cs",
+              "RelativeToolTip": "ToDo\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:55:07.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDo\\Form1.cs",
+              "ToolTip": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ToDo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:52:50.226Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ToDo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Form1.Designer.cs",
+              "RelativeToolTip": "ToDo\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:56:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Program.cs",
+              "RelativeDocumentMoniker": "ToDo\\Program.cs",
+              "ToolTip": "C:\\Users\\koush\\source\\repos\\ToDo\\ToDo\\Program.cs",
+              "RelativeToolTip": "ToDo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:09:12.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
